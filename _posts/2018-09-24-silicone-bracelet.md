@@ -2,8 +2,8 @@
 title: Silicone Bracelet
 subtitle: 
 layout: default
-modal-id: 2
-date: 2018-09-25
+modal-id: 3
+date: 2018-09-24
 img: silicone-bracelet.jpg
 thumbnail: silicone-bracelet-thumbnail.jpg
 alt: image-alt
