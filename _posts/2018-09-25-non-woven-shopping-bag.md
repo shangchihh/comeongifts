@@ -16,4 +16,4 @@ Custom Logo: Silk Screen, Hot Heat Transfer ect.<br>
 Material: 80g, 90g, 100g, 110g non-woven<br>
 Price: $0.04-0.1<br>
 MOQ: 3000pcs<br>
-500pcs/ctn, 48*48*35cm, N.W/G.W: 15/16kgs<br>
+Package: 500pcs/ctn, 48*48*35cm, N.W/G.W: 15/16kgs<br>
