@@ -1,5 +1,5 @@
 ---
-title: Waterproof Digital Paper Watch
+title: Digital Paper Watch
 subtitle: 
 layout: default
 modal-id: 12
